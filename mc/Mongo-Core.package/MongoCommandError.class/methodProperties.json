@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"isNotMasterAndSlaveOkIsFalse" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"code" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"codeIfPresent:ifAbsent:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"isCollectionAlreadyExists" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"reply" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"isNotMaster" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"errmsg" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"messageText" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"initialize:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"isNotRunningWithReplSet" : "EstebanLorenzano 2/3/2017 11:38:22"
+	},
+	"class" : {
+		"newFor:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"signalFor:" : "EstebanLorenzano 2/3/2017 11:38:22"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"instance" : {
+		"where:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"database:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"defaultWhere" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"chunkSize:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flags:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"defaultOffset" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"defaultLimit" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"perform" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"offset" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"order:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"offset:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"doBlock:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"collection:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"fields:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"from:to:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"limit" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"limit:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"doBlock" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"order" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"chunkSize" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"where" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"qualifiedName" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"defaultFields" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"fields" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"defaultChunkSize" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"collection" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flags" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"database" : "EstebanLorenzano 2/3/2017 11:38:22"
+	},
+	"class" : { }
+}

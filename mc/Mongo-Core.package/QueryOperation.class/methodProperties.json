@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"opCode" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flags:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"fixedHeaderSize" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"messageSize" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"computeDataBytes" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flags" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"writeBody" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"mongoQuery" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"mongoQuery:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"dataBytes" : "EstebanLorenzano 2/3/2017 11:38:22"
+	},
+	"class" : {
+		"flagNoCursorTimeout" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flagTailableCursor" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flagExhaust" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flagAwaitData" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flagPartial" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"collection:id:stream:query:fields:returnCount:numberToSkip:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flagSlaveOk" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"id:stream:query:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"flagReserved" : "EstebanLorenzano 2/3/2017 11:38:22"
+	}
+}

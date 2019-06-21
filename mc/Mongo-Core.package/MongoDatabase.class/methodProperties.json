@@ -1,0 +1,36 @@
+{
+	"instance" : {
+		"lastError" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"addCollection:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"setRoot:name:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"update:with:collection:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"update:with:collection:flags:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"name" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"lastError:" : "HolgerHansPeterFreyther 5/5/2017 16:08",
+		"commandInsert:collection:writeConcern:" : "HolgerHansPeterFreyther 4/26/2017 13:14",
+		"replicaSetConfig" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"root" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"command:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"getCollection:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"drop" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"do:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"commandUpdate:with:collection:writeConcern:" : "HolgerHansPeterFreyther 4/26/2017 13:11",
+		"delete:collection:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"queryOne:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"replicaSetStatus" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"commandUpdate:with:collection:" : "HolgerHansPeterFreyther 4/26/2017 13:04",
+		"qualifiedName" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"commandDelete:limit:collection:writeConcern:" : "HolgerHansPeterFreyther 4/26/2017 13:14",
+		"query:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"collectionAt:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"username:password:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"printOn:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"collections" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"hasCollectionNamed:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"addCollection:capped:size:max:" : "EstebanLorenzano 2/3/2017 11:38:22",
+		"insert:collection:" : "EstebanLorenzano 2/3/2017 11:38:22"
+	},
+	"class" : {
+		"root:name:" : "EstebanLorenzano 2/3/2017 11:38:22"
+	}
+}

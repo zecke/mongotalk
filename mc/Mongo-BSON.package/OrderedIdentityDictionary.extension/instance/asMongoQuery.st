@@ -1,3 +1,0 @@
-*Mongo-BSON
-asMongoQuery
-	^self
