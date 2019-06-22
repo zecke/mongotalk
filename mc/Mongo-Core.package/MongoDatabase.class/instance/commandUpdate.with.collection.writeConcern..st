@@ -10,7 +10,7 @@ commandUpdate: origDictionary with: newDictionary collection: collectionName wri
 			'q'->origDictionary.
 			'u'->newDictionary.
 			} asDictionary}.
-		} asDictionary.
+		} as: OrderedDictionary.
 	aConcern ifNotNil: [
 		dict at: 'writeConcern' put: aConcern concernForCommand].
-	^self command: dict.
+	^self commandAndVerify: dict.
