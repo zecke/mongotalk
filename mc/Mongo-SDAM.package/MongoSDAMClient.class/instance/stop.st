@@ -6,4 +6,4 @@ stop
 		each isRunning ifTrue: [ 
 			future := future zip: each stop ] ].
 	monitors := Dictionary new.
-	future waitForCompletion: 10 seconds.
+	future waitForCompletion: 40 seconds.
