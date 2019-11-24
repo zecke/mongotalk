@@ -5,6 +5,5 @@ SmalltalkCISpec {
       #directory : 'mc',
       #platforms : [ #pharo ]
     }
-  ],
-  #preTesting: 'scripts/preTesting.st'
+  ]
 }
