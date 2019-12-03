@@ -7,6 +7,9 @@ commandFind: filterDictionary limit: aLimit collection: collectionName readConce
 		'filter' -> filterDictionary.
 		'limit' -> aLimit.
 		} as: OrderedDictionary.
+		
+	filterDictionary ifNil: [ 
+		dict removeKey: 'filter'].
 
 	aConcern ifNotNil: [
 		dict at: 'readConcern' put: aConcern concernForCommand ].
