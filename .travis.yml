@@ -1,6 +1,7 @@
 language: smalltalk
 
 sudo: required
+dist: bionic
 
 os:
   - linux
@@ -11,6 +12,7 @@ smalltalk:
   - Pharo32-6.1
 
 env:
+  - MONGODB=4.2
   - MONGODB=4.0
   - MONGODB=3.6
   - MONGODB=3.4
